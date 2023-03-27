@@ -1,0 +1,11 @@
+{
+  "codeowners": [
+    "@vrelk"
+  ],
+  "documentation": "https://github.com/vrelk/hacs",
+  "domain": "telnyx",
+  "iot_class": "assumed_state",
+  "issue_tracker": "https://github.com/vrelk/hacs/issues",
+  "name": "telnyx",
+  "version": "0.0.1"
+}

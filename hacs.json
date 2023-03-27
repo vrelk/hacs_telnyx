@@ -1,0 +1,5 @@
+{
+  "homeassistant": "0.70.0",
+  "name": "telnyx",
+  "render_readme": true
+}
