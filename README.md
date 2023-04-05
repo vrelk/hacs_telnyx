@@ -1,4 +1,4 @@
-<img src="screenshots/telnyx-logo.png" alt="Telnyx Logo" title="Telnyx Logo" width="500"/>
+<img src="https://github.com/vrelk/hacs_telnyx/raw/main/screenshots/telnyx-logo.png" alt="Telnyx Logo" title="Telnyx Logo" width="500"/>
 
 # Unofficial Home Assistant integration
 
@@ -13,7 +13,7 @@ Assistant root directory, e.g. `git clone https://github.com/vrelk/hacs ~/.homea
 
 ### Via [HACS](https://hacs.xyz/)
 - Navigate to HACS -> Integrations -> Custom repositories -> Add
-- Set *Repository* to **https://github.com/vrelk/hacs**
+- Set *Repository* to **https://github.com/vrelk/hacs_telnyx**
 - Set *Type* to **Integration**
 - Confirm form submission and the repository should be appended to the list
 
@@ -30,7 +30,7 @@ notify:
     recipient: +13115552367 # or specify multiple numbers e.g. [+13115552367, +13115552368]
 ```
 
-Check out the [example](./screenshots/automation_action_call_service.png) on how to
+Check out the [example](https://github.com/vrelk/hacs_telnyx/raw/main/screenshots/automation_action_call_service.png) on how to
 configure a service call on automation.
 
 ## Support
